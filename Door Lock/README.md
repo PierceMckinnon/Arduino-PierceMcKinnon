@@ -15,13 +15,18 @@ I needed a method to open the lock from inside my room. Using what I had availab
 Below is a picture of the ultrasonic sensor, the Arduino and the main breadboard.  
   
 ![](https://raw.githubusercontent.com/PierceMckinnon/Arduino-PierceMcKinnon/master/Door%20Lock/Images/All%20together.jpg)   
-## Password Input and Lock
-
-![](https://raw.githubusercontent.com/PierceMckinnon/Arduino-PierceMcKinnon/master/Door%20Lock/Images/Lock_Password.jpg)    
 ## Password Input
+To create a password system I used two push buttons. One push button is used as a counter to get to the number I want to input, and the other is to input the number. If the password were (2 5) I would press the left push button twice, then press the right, then press the left push button 5 times and then press the right again. Below is a picture of the password input module.  
+  
 ![](https://raw.githubusercontent.com/PierceMckinnon/Arduino-PierceMcKinnon/master/Door%20Lock/Images/Password.jpg)    
+## Password Input and Lock
+To lock the door, I used a physical barrier to block the door. This barrier consists of a ruler glued onto the servo.
+Below is a picture of the password input module and the lock.  
+  
+![](https://raw.githubusercontent.com/PierceMckinnon/Arduino-PierceMcKinnon/master/Door%20Lock/Images/Lock_Password.jpg)    
 ## Power
 Originally, I tried using a 9V battery to power the system. However, it did not provide enough current to power the servo which would result in random servo movements. Instead, I opened a portable phone charger to use the LiPo and Usb-A connector. Below is a picture of the power bank.  
+  
 ![](https://raw.githubusercontent.com/PierceMckinnon/Arduino-PierceMcKinnon/master/Door%20Lock/Images/Power.jpg)   
 ## Door Lock System Schematic
 Below is a hardware schematic of the system.  
