@@ -3,7 +3,7 @@ Welcome to my Arduino Door Lock Project!
   
 This project  
 
-https://github.com/PierceMckinnon/Arduino-PierceMcKinnon/blob/master/Door%20Lock/Lock.ino
+[Project Code](https://github.com/PierceMckinnon/Arduino-PierceMcKinnon/blob/master/Door%20Lock/Lock.ino)
 ## Distance Sensor
 ![](https://raw.githubusercontent.com/PierceMckinnon/Arduino-PierceMcKinnon/master/Door%20Lock/Images/Distance.jpg)   
 ## Main Control Breadboard
