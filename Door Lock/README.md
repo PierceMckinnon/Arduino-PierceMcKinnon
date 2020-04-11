@@ -1,9 +1,8 @@
 # Arduino Door Lock Project-Pierce McKinnon
 Welcome to my Arduino Door Lock Project!  
   
-This project  
-
-[Project Code](https://github.com/PierceMckinnon/Arduino-PierceMcKinnon/blob/master/Door%20Lock/Lock.ino)
+This project involves creating an automated door locking system for my apartment room.
+[This](https://github.com/PierceMckinnon/Arduino-PierceMcKinnon/blob/master/Door%20Lock/Lock.ino) is the code which controls the system and was written in the Arduino IDE.  
 ## Distance Sensor
 ![](https://raw.githubusercontent.com/PierceMckinnon/Arduino-PierceMcKinnon/master/Door%20Lock/Images/Distance.jpg)   
 ## Main Control Breadboard
