@@ -21,7 +21,8 @@ Below is a picture of the ultrasonic sensor, the Arduino and the main breadboard
 ## Password Input
 ![](https://raw.githubusercontent.com/PierceMckinnon/Arduino-PierceMcKinnon/master/Door%20Lock/Images/Password.jpg)    
 ## Power
-Originally 
+Originally, I tried using a 9V battery to power the system. However, it did not provide enough current to power the servo which would result in random servo movements. Instead, I opened a portable phone charger to use the LiPo and Usb-A connector. Below is a picture of the power bank.  
 ![](https://raw.githubusercontent.com/PierceMckinnon/Arduino-PierceMcKinnon/master/Door%20Lock/Images/Power.jpg)   
 ## Door Lock System Schematic
+Below is a hardware schematic of the system.  
 ![](https://raw.githubusercontent.com/PierceMckinnon/Arduino-PierceMcKinnon/master/Door%20Lock/Images/Schema.PNG)    
